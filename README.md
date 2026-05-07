@@ -28,6 +28,18 @@ The system uses a CNN-LSTM architecture for time-series forecasting and provides
 | Language | Python |
 
 ---
+## Dataset
+
+The model was trained using the **Air Quality Dataset: Indian Cities (2022–2025)** from Kaggle.
+
+Dataset Highlights:
+- 842,000+ hourly observations
+- 29 major Indian cities
+- 63 environmental and meteorological features
+- Includes pollution, weather, and temporal data
+
+Dataset Link:  
+https://www.kaggle.com/datasets/bhautikvekariya21/air-quality-dataset-indian-cities-2022-2025
 
 ## Input Features
 
